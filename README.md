@@ -1,1 +1,1 @@
-# DelVecchio_1209864_20082024_UVA1
+Es una web personal dirigida a empleadores y personas que buscan servicios de desarrollo web.
